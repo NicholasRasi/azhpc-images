@@ -1,3 +1,14 @@
+The version of MPIs can be selected with env variable:
+
+- IMPI_VERSION (default="2018.4.274")
+- MV2_VERSION (default="2.3.4")
+- OMPI_VERSION (default="4.0.4")
+- IMPI_2019_VERSION (default="2019.8.254")
+- MV2X_VERSION (default="2.3")
+
+Set the \*\_VERSION to "0" to skip the installation
+
+---
 
 # Azhpc Images
 

@@ -4,6 +4,9 @@ set -ex
 # set properties
 source ./set_properties.sh
 
+# set mpi versions
+source ./set_mpis.sh
+
 # install utils
 ./install_utils.sh
 

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# MPI versions (get from env or fallback to defaults)
+IMPI_VERSION=${IMPI_VERSION:="2018.4.274"}
+MV2_VERSION=${MV2_VERSION:="2.3.4"}
+OMPI_VERSION=${OMPI_VERSION:="4.0.4"}
+IMPI_2019_VERSION=${IMPI_2019_VERSION:="2019.8.254"}
+MV2X_VERSION=${MV2X_VERSION:="2.3"}
